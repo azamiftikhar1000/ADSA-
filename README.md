@@ -1,7 +1,7 @@
 # ADSA-
 Data Structures and Algorithm
 
-Data Structures:
+Data Structures implemented:
 
 1. Linked List
 2. Graph
