@@ -1,4 +1,6 @@
 # ADSA-
 Data Structures and Algorithm
 
-Algorithms 
+Data Structures used:
+
+1. Linked List
