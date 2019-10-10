@@ -7,3 +7,4 @@ Data Structures:
 2. Graph
 3. Queues
 4. Stack
+5. Trees
